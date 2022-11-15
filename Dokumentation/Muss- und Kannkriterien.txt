@@ -1,0 +1,9 @@
+Muss Kriterien:
+Das System beinhaltet eine Ansicht zum Anlegen von Spielern, Teams und Trainern (10 Stunden)
+Das System beinhaltet eine Ansicht zum Zuweisen von Spielern und Trainern zu Teams (6 Stunden)
+Das System ermöglicht eine Anmeldung mit Nutzername und Passwort (10 Stunden)
+Das verschieben von Spielern und Trainern zu anderen Teams soll ermöglicht werden (8 Stunden)
+Das System gibt eine Fehlermeldung aus, falls sich Spiele überschneiden würden (12 Stunden)
+Kann Kriterien:
+Das System soll eine Ansicht, mit einem Zeitplan zur Übersicht über die geplanten Spiele geben. (15 Stunden)
+Der Verwalter soll an Spieler Emails mit anstehenden Spielen verschicken können (20 Stunden)
